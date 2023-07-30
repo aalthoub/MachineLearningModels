@@ -33,11 +33,11 @@ Other features either dropped or encoded upon building the model.
 
 # Modeling and Evaluation 
 The confusion matrix below visualizes the results of the **`XGBoost model`**:
-![Confusion Matrix](/images/1.png)
+![Confusion Matrix](/Waze/images/1.png)
 The model predicts three times as many false negatives than it does false positives, and it correctly identifies only 16.6% of the users who actually churned.
 
 The barplot below visualizes the model's coefficients to show the importance of the model's features:
-![Barplot](/images/2.png)
+![Barplot](/Waze/images/2.png)
 
 
 # Conclusion
