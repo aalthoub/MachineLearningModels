@@ -22,11 +22,11 @@ Some other features were either extracted or dropped.
 
 # Modeling and Evaluation 
 - The graph below visualizes the **decision tree** splits:
-![Confusion Matrix](/images/1.png)
+![Confusion Matrix](/SalifortMotors/images/1.png)
 The model predicts three times as many false negatives than it does false positives, and it correctly identifies only 16.6% of the users who actually churned.
 
 - The barplot below visualizes the decision tree feature importances:
-![Barplot](/images/2.png)
+![Barplot](/SalifortMotors/images/2.png)
 
 **Insight** 
 - The barplot above shows that in this decision tree model, `last_evaluation`, `number_project`, `tenure`, and `overworked` have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, `left`.
