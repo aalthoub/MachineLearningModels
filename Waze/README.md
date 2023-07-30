@@ -2,7 +2,7 @@
 This project is to find factors that drive user churn. A model is required to predict whether or not a Waze user is retained or churned.
 
 # Data Understanding
-The data consisted of approximately 15k rows and 11 columns. The features are listed below: 
+The data consisted of approximately 15k rows and 13 columns. The features are listed below: 
 
 | #   | Column                  | Non-Null Count | Dtype     |
 |-----|-------------------------|----------------|-----------|
