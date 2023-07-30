@@ -52,9 +52,6 @@ The results of the **XGBoost model** were also nearly perfect. However, its erro
 # Conclusion
 
 1. It is recommended to use this model because it performed well on both the validation and test holdout data. Furthermore, both precision and F<sub>1</sub> scores were consistently high. The model very successfully classified claims and opinions.
-</br>
 2. The model's most predictive features were all related to the user engagement levels associated with each video. It is classifying videos based on how many views, likes, shares, and downloads they received.
-</br>
 3. Because the model currently performs nearly perfectly, there is no need to engineer any new features.
-</br>
 4. To improve the performance of your model, the current version of the model does not need any new features. However, it would be helpful to have the number of times the video was reported. It would also be useful to have the total number of user reports for all videos posted by each author.
