@@ -33,10 +33,10 @@ The dataset contains contains 129,880 rows and 23 columns of customer feedback, 
 
 # Modeling and Evaluation 
 - The confusion matrix visualizes the comparision between predicted and test values.
-![confusion matrix](/images/1.png)
+![confusion matrix](/InvisticoAirline/images/1.png)
 
 -  The bar plot visualizes the relative feature importance of the predictor variables in your model.
-![bar plot](/images/2.png)
+![bar plot](/InvisticoAirline/images/2.png)
 
 **Insights**
 - By a wide margin, `seat comfort` rated as most important in the model. The type of seating is very different between first class and coach seating. However, the perks of being in first class also go beyond the seating type, so perhaps that is an underlying explanation of this feature's importance.
