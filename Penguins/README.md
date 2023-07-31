@@ -23,10 +23,10 @@ The data for this project consists of 344 observations, and each observation in 
 The line plot indicates that the `silhouette` score is closest to 1 when the data is partitioned into six clusters, although five clusters also yield a relatively good `silhouette` score.
 
 -  The following bar plot verifies that clusters can be differentiated by `species`
-![](BarPlot/Penguins/images/2.png)
+![BarPlot](/Penguins/images/2.png)
 
 - The following bar plot verifies that clusters can be differentiated by `species` AND `sex_MALE`.
-![](BarPlot/Penguins/images/3.png)
+![BarPlot](/Penguins/images/3.png)
 
 # Conclusion
 - The K-means clustering enabled this data to be effectively grouped. It helped identify patterns that can educate team members about penguins.
