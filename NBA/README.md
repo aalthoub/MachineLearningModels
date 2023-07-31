@@ -20,7 +20,7 @@ The data for this project consists of performance statistics from each player's 
 
 # Modeling and Evaluation 
 - The confusion matrix below visualizes the predicted and test values
-![Confusion Matrix](/images/1.png)
+![Confusion Matrix](/NBA/images/1.png)
 
 - The performance metrics of the model:
     - `accuracy score`: 0.698
