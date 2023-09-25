@@ -56,7 +56,7 @@ The objective of the model is to predict whether a packet is `attack` or 'normal
 
 # Modeling and Evaluation 
 - The confusion matrix visualizes the comparision between predicted and test values.
-![confusion matrix](/images/1.png)
+![confusion matrix](/IntrusionDetectionSystem(XGBoost_RNN)/images/1.png)
 
 - The ROC curve visualizes the trade-off between the true positive rate (sensitivity) and false positive rate as the classification threshold varies.
-![roc plot](/images/2.png)
+![roc plot](/IntrusionDetectionSystem(XGBoost_RNN)/images/2.png)
